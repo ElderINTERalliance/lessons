@@ -14,7 +14,6 @@ _paginate: false
   - Install software
 
 
-
 ## Checklist:
 - [ ] HTML
 - [ ] CSS
@@ -69,3 +68,6 @@ This script will download the following apps:
 
 --- 
 
+While that's installing, let's talk about INTERalliance:
+
+## TODO: figure this out
